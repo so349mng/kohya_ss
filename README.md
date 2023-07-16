@@ -1,3 +1,6 @@
+Colab的版本是 https://github.com/so349mng/kohya_ss/blob/master/kohyass%20(1).ipynb
+
+
 # Kohya's GUI
 
 This repository mostly provides a Windows-focused Gradio GUI for [Kohya's Stable Diffusion trainers](https://github.com/kohya-ss/sd-scripts)... but support for Linux OS is also provided through community contributions. Macos is not great at the moment.
